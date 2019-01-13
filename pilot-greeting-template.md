@@ -4,7 +4,8 @@ Welcome, Pilot [recipient]!
 
 Thanks for joining the SideShift AI TEST PILOT STAGE (TPS). Testing will be conducted at: https://sideshift.ai
 
-Each pilot receives a TEST PILOT CODE (TPC), allowing them to access ShapeShift AI.
+Each pilot receives a TEST PILOT CODE (TPC), allowing them to access SideShift
+AI.
 The TEST PILOT CODE will be issued at the end of this message.
 
 ## There are rules:
