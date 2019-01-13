@@ -16,7 +16,7 @@ The TEST PILOT CODE will be issued at the end of this message.
 Failure to comply with these rules will result in at least one of the following:
 
 - Legal action (SideShift AI may relieve you of your house and/or friends/family)
-- Shaming (SideShift AI may may expose perceived-to-be personal information/"doxx" you and/or your friends/family)
+- Shaming (SideShift AI may expose perceived-to-be personal information/"doxx" you and/or your friends/family)
 - Physical violence (SideShift AI may hurt you and/or your friends/family)
 
 TEST PILOT CODE (TPC) FOLLOWS
