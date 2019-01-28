@@ -1,4 +1,4 @@
-# ShapeShift AI's Bitcoin Lightning Network node
+# SideShift AI's Bitcoin Lightning Network node
 
 URI: `02459b759a62bc3ebfe98a320da237944cc4f35456384bd8fdefa7d0340c75f46f@54.200.61.186:9735`
 
